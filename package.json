@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "um diretorio de teste para aprender git e no",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camisminei/Coursera.git"
+  },
+  "author": "camila minei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camisminei/Coursera/issues"
+  },
+  "homepage": "https://github.com/camisminei/Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
